@@ -1,0 +1,16 @@
+.NavigationItem{
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+.NavigationItem a{
+    text-decoration: none;
+    color: #676767;
+    padding: 21px;
+}
+
+
+.NavigationItems a:hover{
+    background-color: #bfbfbf;
+    padding: 21px;
+}

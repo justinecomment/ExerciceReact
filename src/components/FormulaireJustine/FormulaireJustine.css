@@ -1,0 +1,19 @@
+.form{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;   
+    margin-top: 40px;
+}
+
+.form input{
+    margin: 10px 0px;
+}
+
+.form button{
+    margin-top: 50px;
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+}

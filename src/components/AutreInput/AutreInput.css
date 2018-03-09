@@ -1,0 +1,14 @@
+.InputElement{
+    padding: 10px;
+    margin: 5px;
+}
+
+.Invalid{
+    border: 1px solid red;
+    color: white;
+    background-color: #ea8c8c; 
+}
+
+.errorText{
+    color: red;
+}
